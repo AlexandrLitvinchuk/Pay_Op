@@ -26,15 +26,7 @@ class LoginTest(unittest.TestCase):
         homepage = HomePage(driver)
         homepage.clik_on_email()
         homepage.clik_on_exit()
-    #    time.sleep(2)
 
-#        self.driver.find_element_by_id("email").send_keys("litvinchucksasha@gmail.com")
- #       self.driver.find_element_by_id("password").send_keys("sasha1990")
-  #      self.driver.find_element_by_class_name("submit-btn").click()
-   #     self.driver.find_element_by_xpath("//div[@class='account-info__email']").click()
-#        time.sleep(2)
-  #      self.driver.find_element_by_xpath("//label[@class='account-actions__action mat-ripple']").click()
-#        time.sleep(2)
 
 
 

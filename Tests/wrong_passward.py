@@ -22,6 +22,7 @@ class LoginTest(unittest.TestCase):
         login.click_login_buton()
 
         driver.find_element_by_xpath("//span[text()='User not found']")
+        
 
 
     @classmethod
