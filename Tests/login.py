@@ -31,7 +31,7 @@ class LoginTest(unittest.TestCase):
         homepage.clik_on_email()
         homepage.clik_on_exit()
 
-
+#
 
 
     @classmethod
